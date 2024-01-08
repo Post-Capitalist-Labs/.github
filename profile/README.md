@@ -9,7 +9,7 @@ At Post-Capitalist Labs, we harness the transformative power of technology to bo
 - **Mechanism Design & Cryptoeconomic Theory:** Creating economic models that foster social and environmental justice.
 
 ## Vision
-We envisage a world where solidarity, care, classlessness, diversity, self-reflection, and direct democracy are not just ideals, but the foundations of everyday life. Our goal is to make this vision a reality through the thoughtful application of technology, where people are in controle.
+We envisage a world where solidarity, care, classlessness, diversity, self-reflection, and direct democracy are not just ideals, but the foundations of everyday life. Our goal is to make this vision a reality through the thoughtful application of technology, where people are in control.
 
 ### Our Approach
 Post-Capitalist Labs is a beacon for open-source innovation. We are dedicated to engaging with social movements intelligently and effectively. Our approach includes:
@@ -22,7 +22,7 @@ We achieve these goals through:
 
 - **Blockchain Innovation:** Developing blockchain technologies for a post-capitalist era.
 - **Model Iteration:** Refining economic models like our council economy model.
-- **Crypto-Economic Research:** Advancing the field of post-capitalist cryptoeconomics.
+- **Cryptoeconomic Research:** Advancing the field of post-capitalist cryptoeconomics.
 
 ### Join Us in Building Post-Capitalist Worlds!
 We're looking for passionate individuals to contribute in various capacities:
