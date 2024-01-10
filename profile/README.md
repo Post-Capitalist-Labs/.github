@@ -26,14 +26,12 @@ We achieve these goals through:
 - **Model Iteration:** Refining economic models like our council economy model.
 - **Cryptoeconomic Research:** Advancing the field of post-capitalist cryptoeconomics.
 
-### Join Us in Building Post-Capitalist Worlds!
-We're looking for passionate individuals to contribute in various capacities:
+### Join Us: Be Part of the Revolution!
+Post-Capitalist Labs is a staunch advocate of open-source principles. We firmly believe in the power and potential of community-driven, collaborative projects. As an open-source initiative, we encourage contributions from everyone who shares our vision and values. Our project thrives on the collective effort of volunteers who dedicate their time, skills, and passion to foster a post-capitalist future. Currently, we are an all-volunteer effort, and we greatly value the dedication and contributions of each member in our community.
 
-- **Non-Technical Roles:**
-  - Contribute to our R&D by writing, producing, and publishing content about our protocols, models, theories, and vision.
-  - Engage with and help grow post-capitalist communities and movements.
-- **Technical Roles:**
-  - Clone our repositories, implement your ideas, and submit pull requests. 'Good first issues' will be highlighted for newcomers.
+We are on the lookout for passionate individuals to join us in various capacities:
+- Non-Technical Roles: Contribute to our R&D by writing, producing, and publishing content about our protocols, models, theories, and vision. Engage with and help grow post-capitalist communities and movements.
+- Technical Roles: Clone our repositories, implement your ideas, and submit pull requests. 'Good first issues' are highlighted for newcomers.
 
 Let's collaborate to reshape the world for the better!
 
