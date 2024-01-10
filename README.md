@@ -1,3 +1,4 @@
+![](https://github.com/Post-Capitalist-Labs/.github/blob/main/assets/PCL_Labs.png?raw=true)
 # About Post-Capitalist Labs
 
 ## Mission
