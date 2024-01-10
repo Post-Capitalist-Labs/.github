@@ -8,6 +8,7 @@ At Post-Capitalist Labs, we harness the transformative power of technology to bo
 - **Research & Development:** Exploring new frontiers in technology for a post-capitalist society.
 - **Proof-of-Concept Development:** Turning innovative ideas into tangible prototypes.
 - **Mechanism Design & Cryptoeconomic Theory:** Creating economic models that foster social and environmental justice.
+- **Blockchain Development:** Leveraging decentralized consensus and distributed ledger technologies for directly democratic alternatives to capitalism.
 
 ## Vision
 We envisage a world where solidarity, care, classlessness, diversity, self-reflection, and direct democracy are not just ideals, but the foundations of everyday life. Our goal is to make this vision a reality through the thoughtful application of technology, where people are in control.
